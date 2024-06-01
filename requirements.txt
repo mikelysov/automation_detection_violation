@@ -1,0 +1,3 @@
+tk
+ultralytics
+cv2
